@@ -1,4 +1,5 @@
 .. image:: https://img.shields.io/badge/Python-2.7-blue.svg
+    :target: https://img.shields.io/badge/Python-2.7-blue.svg
 # Ichiban Proxy Server
 -------------
 Ichiban proxy : proxy for intermediate-beginners
