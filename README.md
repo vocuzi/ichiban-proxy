@@ -1,4 +1,5 @@
 # Ichiban Proxy Server
+-------------
 Ichiban proxy : proxy for intermediate-beginners
 
 .. code-block:: bash
@@ -9,6 +10,10 @@ Ichiban proxy : proxy for intermediate-beginners
     Proxy Server Started on port 8000 ... [OK]   
 
 # Requirements
+-------------
 Linux and Python2.7
 
+-------------
+# Ichiban
+-------------
 ![Alt Text](https://i.pinimg.com/originals/e3/2b/d8/e32bd8dff8e413a2fd1b7602994584f5.gif)
