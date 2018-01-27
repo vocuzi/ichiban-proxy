@@ -3,7 +3,6 @@
     
 Ichiban proxy : proxy for intermediate-beginners
 
-    .. code-block:: bash
 
     $ proxy-server.py --port 8000
     Sockets Initialized ... [OK]
